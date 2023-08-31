@@ -44,7 +44,7 @@
     "PORT": {
       "description": "Port to use for your webhooks",
       "value": "8443"
-    },
+    }
   },
   "addons": [
     {
